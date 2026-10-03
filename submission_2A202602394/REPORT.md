@@ -1,6 +1,6 @@
 # Báo cáo Lab Day 1 — Mạng Nơ-ron và Thí Nghiệm Huấn Luyện
 
-**Sinh viên:** Hoàng Việt Dũng  
+**Sinh viên:** Nguyễn Quang Đạo  
 **MSSV:** 2A202602394  
 **Khóa:** AICB 2026 · VinUniversity  
 
